@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Sharing Session DevComU</string>
+
+    <string-array name="data_name">
+        <item>Lionel Messi</item>
+        <item>Cristiano Ronaldo</item>
+        <item>Neymar Jr</item>
+        <item>Marselino Ferdinan</item>
+        <item>Shin Tae Yong</item>
+        <item>Toni Kross</item>
+        <item>Luka Modric</item>
+        <item>Andres Iniesta</item>
+        <item>Cole Palmer</item>
+    </string-array>
+
+    <string-array name="data_fakultas">
+        <item>Fasilkom</item>
+        <item>Fasilkom</item>
+        <item>Fasilkom</item>
+        <item>Fasilkom</item>
+        <item>Fasilkom</item>
+        <item>Fasilkom</item>
+        <item>Fasilkom</item>
+        <item>Fasilkom</item>
+        <item>Fasilkom</item>
+        <item>Fasilkom</item>
+        <item>Fasilkom</item>
+    </string-array>
+
+    <string-array name="data_university">
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+    </string-array>
+
+
+    <string-array name="data_address">
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+        <item>Harvard Universiy</item>
+    </string-array>
+</resources>
